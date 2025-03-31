@@ -1,0 +1,26 @@
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Wakeup 7 am
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Breakfast 7:30 am
+Choose one of 'add', 'view', 'save', or 'quit': add             
+Add task and time: Walk dog 8:30 am
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Fishing 9:30 am
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Lunch 12:30 pm
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Chill 12:30 - 9 pm
+Choose one of 'add', 'view', 'save', or 'quit': add
+Add task and time: Sleep 10 pm
+Choose one of 'add', 'view', 'save', or 'quit': view
+Your Current To do list:
+1. Wakeup 7 am
+2. Breakfast 7:30 am
+3. Walk dog 8:30 am
+4. Fishing 9:30 am
+5. Lunch 12:30 pm
+6. Chill 12:30 - 9 pm
+7. Sleep 10 pm
+Choose one of 'add', 'view', 'save', or 'quit': save
+To do list is saved
+Choose one of 'add', 'view', 'save', or 'quit': quit
